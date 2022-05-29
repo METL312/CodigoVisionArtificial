@@ -1,4 +1,4 @@
-# procesamiento de imagenes
+# Procesamiento de imagenes
 ## Red Convolucional y filtros
 
 Para poder utilizarlo, debe ponerse en algún servidor web.
