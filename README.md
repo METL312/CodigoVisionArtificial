@@ -1,4 +1,4 @@
-# Reconocimiento de imágenes con IA - 01 
+# procesamiento de imagenes
 ## Red Convolucional y filtros
 
 Para poder utilizarlo, debe ponerse en algún servidor web.
